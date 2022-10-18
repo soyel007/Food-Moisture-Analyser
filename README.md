@@ -10,7 +10,7 @@ The basic GUI of the tool looks like this.
 ## Working
 Enter the appropriate values in the fields given.
 
-![alt text](assets/values.jpg)
+![alt text](assets/value.jpg)
 
 
 After inserting values, click on calculate button below to calculate else reset or exit. On clicking calculate button a dialogue box will open with necessary outputs.
